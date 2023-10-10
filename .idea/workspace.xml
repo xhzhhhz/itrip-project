@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d389bdde-203f-41af-ba13-55494dfd9108" name="更改" comment="添加主线" />
+    <list default="true" id="d389bdde-203f-41af-ba13-55494dfd9108" name="更改" comment="添加主线">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1696823715912" duration="3690000" />
       <workItem from="1696834364183" duration="2042000" />
       <workItem from="1696894608555" duration="90000" />
-      <workItem from="1696894709045" duration="3699000" />
+      <workItem from="1696894709045" duration="4517000" />
     </task>
     <task id="LOCAL-00001" summary="添加主线">
       <created>1696895253864</created>
@@ -143,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696899595746</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加主线">
+      <created>1696900045537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696900045537</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
